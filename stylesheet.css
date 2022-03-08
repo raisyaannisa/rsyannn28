@@ -83,5 +83,134 @@ li {
 }
 
 .top-wrapper h1 {
+  opacity: 0.7;
 
-  opacity:…
+  font-size: 45px;
+
+  letter-spacing: 5px;
+
+  margin-bottom: 10px;
+
+}
+
+.top-wrapper p {
+
+  opacity: 0.7;
+
+  margin-bottom: 3px;
+
+}
+
+.btn-wrapper {
+
+  text-align: center;
+
+  margin: 20px 0;
+
+}
+
+.btn-wrapper p {
+
+  margin: 10px 0;
+
+}  
+
+.signup {
+
+  background-color: #ff4563;
+
+}
+
+.facebook {
+
+  background-color: #3b5998;
+
+  margin-right: 10px;
+
+}
+
+.btn {
+
+  padding: 12px 24px;
+
+  color: white;
+
+  display: inline-block;
+
+  opacity: 0.8;
+
+  border-radius: 4px;
+
+  text-align: center;
+
+}
+
+.btn:hover {
+
+  opacity: 1;
+
+}
+
+.fa {
+
+  margin-right: 5px;
+
+}
+
+.message-wrapper {
+
+  border-bottom: 1px solid rgb(255, 255, 255);
+
+  padding-bottom: 80px;
+
+  text-align: center;
+
+}
+
+.message {
+
+  padding: 15px 40px;
+
+  background-color: #ffffff;
+
+  cursor: pointer;
+
+  box-shadow: 0 7px #ffffff;
+
+  color: rgb(255, 0, 0);
+
+}
+
+.message:active {
+
+  position: relative;
+
+  top: 7px;
+
+  box-shadow: none;
+
+}
+
+footer img {
+
+  width: 125px;
+
+}
+
+footer p {
+
+  color: #ffffff;
+
+  font-size: 12px;
+
+}
+
+footer {
+
+  padding-top: 30px;
+
+  padding-bottom: 20px;
+
+  color: rgba(255, 255, 255, 0.836);
+
+}
